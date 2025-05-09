@@ -1,1 +1,9 @@
-SQLAlchemy~=2.0.36
+# requirements.txt
+
+# SQLAlchemy for database interactions
+SQLAlchemy==2.0.38
+
+# SQLite for the in-memory database (optional, as SQLite is included in Python's standard library)
+sqlite==3.39.3
+
+# Unittest for running the test cases (optional, as unittest is included in Python's standard library)
